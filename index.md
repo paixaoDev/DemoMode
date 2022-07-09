@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Bem vindo ao DemoMODe
 
-You can use the [editor on GitHub](https://github.com/paixaoDev/DemoMode/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Aqui você vai encontrar _desafios guiados_ que irao te ajudar a desenvolver suas habilidades em programaçao e criar seu portifolio no github
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### O que sao desafios guiados?
+Foram **criados** e **escolhidos** diversos desafios, de casos reais tanto de programaçao quanto de testes para entrar em uma empresa, o plano é junto com o desafio vir uma documentaçao que vai te guiar com o maximo de conhecimento possivel, mas sem pegar na mao, para você se sentir ao maximo em um caso real do cotidiano de um programador!
 
-### Markdown
+### Trilha de desafios
+Abaixo você vai encontrar uma trila de desafios, nessa trilha algumas tags vao te ajudar a identificar o conhecimento necessario para passar pelo desafio, assim voce pode escolher o que faz mais sentido com o que esta procurando aprender. Eu sugiro dar uma olhada nessa [pagina aqui](pagina com listas da trilha de desafios)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paixaoDev/DemoMode/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Trilha
