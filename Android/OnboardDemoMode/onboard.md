@@ -2,22 +2,23 @@ Neste desafio você tem que construir uma tela simples de onboard do DemoMode, s
 
 
 **O que precisa fazer?**
-- Criar a tela [imagem a baixo] 
-- Puxar os dados [chamada a baixo] e inserir na tela
+- Criar a tela ```(imagem a baixo)```
+- Puxar os dados ```(chamada a baixo)``` e inserir na tela
 - **Concluir o desafio em até 5 dias**
 
 
-**Tela a ser replicada:**
-
+**Tela a ser replicada:**  
 ![Tela de Onboard](https://user-images.githubusercontent.com/58302592/182049090-eb62ffa6-734c-40a4-9738-e71af689eabc.png)
 
-**Chamada para pegar massa de dados:** http://demo5005169.mockable.io/get_onboard
-
+**Chamada para pegar massa de dados:** http://demo5005169.mockable.io/get_onboard   
 Para puxar os dados desta chamada é aconselhavel usar uma biblioteca de chamadas do tipo REST (retrofit, voley ...)
 
-**Links Uteis:**
-
+**Links Uteis:**  
 [Usando Api Retrofit](http://mobimais.com.br/blog/retrofit-2-consumir-json-no-android/)
 
 
+**Let's Google for you**  
+tags que podem te ajudar a pesquisa no google para concluir esse desafio
+
+```Retrofit```, ```Chamada REST Android```, ```Modificar Style do Botao Android```, ```Criar sua primeira tela Android studio```
 
