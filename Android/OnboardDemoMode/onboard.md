@@ -13,6 +13,10 @@ Neste desafio você tem que construir uma tela simples de onboard do DemoMode, s
 **Chamada para pegar massa de dados:** http://demo5005169.mockable.io/get_onboard   
 Para puxar os dados desta chamada é aconselhavel usar uma biblioteca de chamadas do tipo REST (retrofit, voley ...)
 
+---
+
+### HELP MODE
+
 **Links Uteis:**  
 [Usando Api Retrofit](http://mobimais.com.br/blog/retrofit-2-consumir-json-no-android/)
 
