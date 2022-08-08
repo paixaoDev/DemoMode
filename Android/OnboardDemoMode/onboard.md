@@ -8,7 +8,8 @@ Neste desafio você tem que construir uma tela simples de onboard do DemoMode, s
 
 
 **Tela a ser replicada:**  
-![Tela de Onboard](https://user-images.githubusercontent.com/58302592/182049090-eb62ffa6-734c-40a4-9738-e71af689eabc.png)
+![Tela de Onboard](https://user-images.githubusercontent.com/58302592/182049090-eb62ffa6-734c-40a4-9738-e71af689eabc.png)  
+[Link do figma](https://www.figma.com/file/r0UmzrQSGVmMfCvN86CfjO/Untitled?node-id=1%3A2)
 
 **Chamada para pegar massa de dados:** http://demo5005169.mockable.io/get_onboard   
 Para puxar os dados desta chamada é aconselhavel usar uma biblioteca de chamadas do tipo REST (retrofit, voley ...)
